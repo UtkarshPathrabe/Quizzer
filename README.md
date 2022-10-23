@@ -1,6 +1,6 @@
 # Quizzer
 
-This application is deployed and running on Netlify.
+This application is deployed and running on Netlify at [Quizzer](https://utkarsh-pathrabe-quizzer.netlify.app/).
 
 ## INTRODUCTION
 

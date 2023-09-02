@@ -1,6 +1,23 @@
 # Quizzer
 
-This application is deployed and running on Netlify at [Quizzer](https://utkarsh-pathrabe-quizzer.netlify.app/).
+This application is deployed and running on Netlify at [Quizzer](https://utkarsh-pathrabe-quizzer.netlify.app/).  
+
+Quizzer is an interactive application designed for knowledge enthusiasts, especially suitable for students aged 9 and above. It offers a variety of general questions across different difficulty levels to enhance your knowledge.
+
+## Key Features:
+
+* Multiple-choice questions with a time limit for each question.
+* Progress to the next question only upon providing the correct answer.
+* Automatic quiz termination if the time limit is exceeded or an incorrect answer is given.
+* User-friendly interface prioritizing ease of use.
+* Two themes, Light and Dark, with the option to switch between them.
+* Customizable question bank, allowing any number of questions.
+* Adjustable settings for the number of questions and time per question.
+* A stepper displays the number of questions and marks correct answers.
+* Successfully answering all questions triggers a 'Congratulations! You won.' banner.
+* Incorrect answers or time-outs result in a 'You lost. Better luck next time!' message.
+
+Quizzer aims to create an engaging and flexible quizzing environment. Whether you're testing your knowledge or challenging yourself, Quizzer adapts to your preferences, making learning and quizzing fun and accessible.
 
 ## INTRODUCTION
 
